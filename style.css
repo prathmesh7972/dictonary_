@@ -8,14 +8,14 @@ body{
     display: grid;
     place-items: center;
     min-height: 100vh;
-    background-color: rgb(232, 243, 243);
+    background-color: rgb(57, 97, 97);
 }
 .card
 {
     width: auto;
-    background-color: black;
+    background-color: rgb(113, 96, 96);
     padding: 3rem 2rem;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-shadow: rgba(159, 143, 143, 0.35) 0px 5px 15px;
 }
 .property{
     color: white;
@@ -32,7 +32,7 @@ body{
     flex-wrap: wrap;
     width: 30vh;
     height: 10vh;
-    background-color: black;
+    background-color: rgb(90, 48, 48);
     margin-bottom: 2rem;
     /* border: 3px solid #00B4CC; */
     /* border-right: none; */
